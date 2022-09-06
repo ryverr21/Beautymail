@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.3.0",
-        "illuminate/support": "5.*|^6.0.0|^7.0.0|^8.0.0|^9.0.0",
+        "illuminate/support": "^9.17.0",
         "pelago/emogrifier": "dev-main"
     },
     "autoload": {
